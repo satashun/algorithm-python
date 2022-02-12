@@ -2,6 +2,7 @@ import sys
 import itertools
 import numpy as np
 
+sys.setrecursionlimit(10 ** 9)
 read = sys.stdin.buffer.read
 readline = sys.stdin.buffer.readline
 readlines = sys.stdin.buffer.readlines

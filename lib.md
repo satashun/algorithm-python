@@ -2,6 +2,16 @@
 
 functools.lru_cache
 
+## 優先度付きキュー
+heapq
+https://note.nkmk.me/python-max-min-heapq-nlargest-nsmallest/
+
+example : ABC217 E
+https://atcoder.jp/contests/abc217/submissions/28482906
+
+example : ABC223 D (topological sort)
+https://atcoder.jp/contests/abc223/submissions/28492875
+
 ## 二分探索
 bisect.bisect_left, bisect.bitsect, ...
 https://docs.python.org/ja/3/library/bisect.html
@@ -18,6 +28,9 @@ https://atcoder.jp/contests/abc219/submissions/28261403
 
 ## queue
 collections.deque
+
+example : ABC217 E
+https://atcoder.jp/contests/abc217/submissions/28482906
 
 ## 辞書
 collections.defaultdict
