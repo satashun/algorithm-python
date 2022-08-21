@@ -50,3 +50,11 @@ https://atcoder.jp/contests/abc232/submissions/28216985
 itertools.product
 example : ABC233 C
 https://atcoder.jp/contests/abc233/submissions/28209310
+
+## counter
+typing.Counter
+example : ABC206 C
+
+## 配列の出力
+A : list
+print(*A)
